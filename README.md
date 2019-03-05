@@ -1,18 +1,13 @@
+# Transition challenge #
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+## 1 When hovered a link should change color to the black: #000
+## 2 Transition speed should be set to 1 second, and transition-timing-function should be ease-in-out
+## 3 Transition should be triggered by hover
 
 
-Hi there! Welcome to Cloud9 IDE!
+** There was an issue which took quite a lot of time, because I  couldn't see it: there is no space between word HOVER and " :"
+* I've used Cloud9
+* GitHub
+* Boilerplates 
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
+Thank you! 
